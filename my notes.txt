@@ -1,0 +1,2 @@
+open folder, create virtual env, requirement file
+install fastapi, uvicorn by pip
